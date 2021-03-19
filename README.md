@@ -2,6 +2,9 @@
 
 Hi, I'm Zakaria Kebairia, a passionate self-taught SysAdmin,NetAdmin.
 
+<p><pre align="center">
+<strong>Zakaria Kebairia /</strong> <a href="https://www.zakaria-k.xyz">Homepage</a> / <a href="https://www.reddit.com/user/Z4cK47/submitted/?sort=top">Reddit</a> / <a href="https://github.com/kebariaia">GitHub</a> / <a href="https://gist.github.com/kebairia">Gist</a> / </pre></p>
+
 - 🌱 I’m currently learning Machine Learning
 - 💬 Ask me about anything [here](https://github.com/kebairia/kebairia/issues)
 
