@@ -3,6 +3,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/kebairia/kebairia)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/kebairia)](https://badges.pufler.dev)
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://www.linkedin.com/in/zakaria-kebairia/)
 
 <p><pre align="center">
 <strong>Zakaria Kebairia /</strong> <a href="https://www.zakaria-k.xyz">Homepage</a> / <a href="https://www.reddit.com/user/Z4cK47/submitted/?sort=top">Reddit</a> / <a href="https://github.com/kebairia">GitHub</a> / <a href="https://gist.github.com/kebairia">Gist</a> / </pre></p>
