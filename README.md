@@ -1,6 +1,8 @@
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://www.linkedin.com/in/zakaria-kebairia/)
-[![Reddit](https://img.shields.io/badge/-Reddit-black.svg?style=for-the-badge&logo=Reddit&colorB=555)](https://www.reddit.com/user/Z4cK37)
-[![Gist](https://img.shields.io/badge/-Git-black.svg?style=for-the-badge&logo=Git&colorB=555)](https://gist.github.com/kebairia)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=444)](https://www.linkedin.com/in/zakaria-kebairia/)
+[![Reddit](https://img.shields.io/badge/-Reddit-black.svg?style=for-the-badge&logo=Reddit&colorB=444)](https://www.reddit.com/user/Z4cK37)
+[![Gist](https://img.shields.io/badge/-Gist-black.svg?style=for-the-badge&logo=Git&colorB=444)](https://gist.github.com/kebairia)
+[![Blog](https://img.shields.io/badge/-Blog-black.svg?style=for-the-badge&logo=Firefox&colorB=444)](https://kebairia.github.io)
+
 <!--<p><pre align="center">-->
 <!--<strong>Zakaria Kebairia /</strong> <a href="https://www.zakaria-k.xyz">Homepage</a> / <a href="https://www.reddit.com/user/Z4cK47/submitted/?sort=top">Reddit</a> / <a href="https://github.com/kebairia">GitHub</a> / <a href="https://gist.github.com/kebairia">Gist</a> / </pre></p>-->
 
