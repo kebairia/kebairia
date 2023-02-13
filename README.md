@@ -6,7 +6,10 @@
 <!--<p><pre align="center">-->
 <!--<strong>Zakaria Kebairia /</strong> <a href="https://www.zakaria-k.xyz">Homepage</a> / <a href="https://www.reddit.com/user/Z4cK47/submitted/?sort=top">Reddit</a> / <a href="https://github.com/kebairia">GitHub</a> / <a href="https://gist.github.com/kebairia">Gist</a> / </pre></p>-->
 
-- Hi! My name Zakaria 👋 and I do a lot of DevOps stuff (IaC, Ansible, Docker, Kubernetes etc.).
+Hi! My name Zakaria 👋 
+• DevOps/Cloud Jedi (IaC, Ansible, Docker, Kubernetes etc.). ☁💻 
+• Harnessing the power of Philosophy, Math, Physics, CS & Art in my free time 🤔🔢🔭💻🎨
+• To boldly go where no one has gone before, and beyond 🌌
 
 - You can follow me on [Mastodon](https://emacs.ch/@zk).
 
