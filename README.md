@@ -8,7 +8,7 @@
 
 - Hi there! My name is Zakaria 👋 
   - I'm a DevOps/Cloud Jedi (IaC, Ansible, Docker, Kubernetes etc.). ☁💻 
-  - Harnessing the power of Philosophy 🤔, Math 🔢, Physics 🔭, CS 💻 & Art 🎨 is my passion.
+  - Harnessing the power of Philosophy ,Math ,Physics ,CS & Art is my passion.
   - To boldly go where no one has gone before, and beyond 🌌
 
 - You can follow me on [Mastodon](https://emacs.ch/@zk).
