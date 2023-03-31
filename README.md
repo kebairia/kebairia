@@ -14,7 +14,7 @@
 - You can follow me on [Mastodon](https://emacs.ch/@zk).
 
 
-- 💬 Ask me about anything [here](https://github.com/kebairia/kebairia/issues)
+- 💬 Ask me about anything [here](https://github.com/ZakariaKebairia/ZakariaKebairia/issues)
 
 [![Zakaria's github stats](https://github-readme-stats.vercel.app/api?username=kebairia&include_all_commits=tur&count_private=true&hide_border=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
