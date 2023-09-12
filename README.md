@@ -7,7 +7,7 @@
 <!--<strong>Zakaria Kebairia /</strong> <a href="https://www.zakaria-k.xyz">Homepage</a> / <a href="https://www.reddit.com/user/Z4cK47/submitted/?sort=top">Reddit</a> / <a href="https://github.com/kebairia">GitHub</a> / <a href="https://gist.github.com/kebairia">Gist</a> / </pre></p>-->
 
 - Hi there! My name is Zakaria 👋 
-  - I'm a System/Cloud Jedi (IaC, Ansible, Docker, Kubernetes, OpenStack ...etc.). ☁💻 
+  - I'm a DevOps Jedi (IaC, Ansible, Docker, Kubernetes, OpenStack ...etc.). ☁💻 
   - Harnessing the power of Philosophy ,Math ,Physics ,CS & Art is my passion.
   - To boldly go where no one has gone before, and beyond 🌌
 
